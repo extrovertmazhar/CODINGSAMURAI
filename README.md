@@ -1,1 +1,1 @@
-# xgs
+CODINGSAMURAI Internship Task Calculator
